@@ -1,3 +1,3 @@
-# match_game
+# respond_game
 Html project 
 #cs81 final project 
